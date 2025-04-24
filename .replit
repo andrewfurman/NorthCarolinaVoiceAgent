@@ -1,0 +1,44 @@
+run =  ["gunicorn", "--bind", "0.0.0.0:5000", "main:app"]
+entrypoint = "main.py"
+modules = ["python-3.11", "postgresql-16"]
+
+hidden = [".pythonlibs"]
+
+[nix]
+channel = "stable-24_05"
+
+[deployment]
+run =  ["gunicorn", "--bind", "0.0.0.0:5000", "main:app"]
+deploymentTarget = "cloudrun"
+
+[[ports]]
+localPort = 5000
+externalPort = 80
+
+[[ports]]
+localPort = 44849
+externalPort = 3002
+
+[[ports]]
+localPort = 46395
+externalPort = 3001
+
+[[ports]]
+localPort = 46857
+externalPort = 3000
+
+[workflows]
+runButton = "Flask Server"
+
+[[workflows.workflow]]
+name = "Flask Server"
+author = 10868327
+mode = "sequential"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "pkill -f gunicorn || true"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "gunicorn --bind 0.0.0.0:5000 main:app"

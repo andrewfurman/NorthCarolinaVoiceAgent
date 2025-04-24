@@ -1,0 +1,91 @@
+{% extends "header.html" %}
+{% block content %}
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BCBS NC Voice Assistant</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <style>
+        /* Optional: You could define the specific IBX blue here if Tailwind's default blues aren't exact */
+        /* .text-ibx-blue { color: #007AC3; } */
+        /* .bg-ibx-blue { background-color: #007AC3; } */
+        /* For this example, we'll use Tailwind's sky-600 which is a similar shade */
+
+        /* Custom scrollbar styling (optional, webkit specific) */
+        #transcriptOutput::-webkit-scrollbar {
+            width: 8px;
+        }
+        #transcriptOutput::-webkit-scrollbar-track {
+            background: #f1f1f1; /* Light grey track */
+            border-radius: 10px;
+        }
+        #transcriptOutput::-webkit-scrollbar-thumb {
+            background: #888; /* Darker grey thumb */
+            border-radius: 10px;
+        }
+        #transcriptOutput::-webkit-scrollbar-thumb:hover {
+            background: #555; /* Darker thumb on hover */
+        }
+
+        /* Ensure body takes full height */
+        /* html, body { height: 100%; margin: 0; padding: 0; }  Basic CSS reset if needed, but Tailwind's h-full should suffice */
+
+    </style>
+</head>
+<body class="bg-white text-gray-800 h-full flex flex-col">
+
+<div class="bg-white rounded-lg shadow-xl p-6 md:p-8 w-full border border-gray-200 h-full flex flex-col">
+
+    <div class="text-sm text-gray-600 text-center mb-4">
+        For detailed information on the Blue Cross Blue Shield NC individual and family plans available in 2025, please visit the <a href="https://www.bluecrossnc.com/plans/individuals-and-families" target="_blank" class="text-purple-900 hover:text-purple-700 underline">Blue Cross Blue Shield NC website</a>
+    </div>
+
+    <h1 class="text-2xl md:text-3xl font-bold text-center text-purple-900 mb-6 flex-shrink-0">
+        Chat with the Blue Cross Blue Shield NC Voice Assistant
+    </h1>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8 flex-1 min-h-0">
+
+        <div class="flex flex-col space-y-4">
+            <p class="text-gray-600 text-sm md:text-base text-center md:text-left flex-shrink-0">
+                Click "Start Chat" to connect with the Blue Cross Blue Shield NC voice assistant using your microphone. You can ask questions about the 2025 Individual and Family plans.
+            </p>
+
+            <div class="flex justify-center md:justify-start space-x-4 flex-shrink-0">
+                <button id="startButton" class="bg-purple-900 hover:bg-purple-700 text-white font-semibold py-2 px-5 md:px-6 rounded-lg transition duration-200 ease-in-out disabled:opacity-50 disabled:cursor-not-allowed text-sm md:text-base">
+                    Start Chat
+                </button>
+                <button id="stopButton" class="bg-red-500 hover:bg-red-600 text-white font-semibold py-2 px-5 md:px-6 rounded-lg transition duration-200 ease-in-out disabled:opacity-50 disabled:cursor-not-allowed text-sm md:text-base" disabled>
+                    Stop Chat
+                </button>
+            </div>
+
+            <div class="p-3 md:p-4 bg-gray-100 rounded border border-gray-300 flex-grow flex flex-col min-h-0"> <p class="text-xs md:text-sm font-mono text-gray-700 flex-shrink-0">Status:</p>
+                <div id="status" class="text-xs md:text-sm font-mono text-purple-700 break-words flex-grow min-h-0 overflow-auto">Idle</div>
+            </div>
+
+            <audio id="remoteAudio" autoplay playsinline class="w-full hidden"></audio>
+
+            <div class="text-center md:text-left text-xs text-gray-500 pt-2 flex-shrink-0">
+                Ensure your microphone is enabled and allowed by the browser.
+            </div>
+        </div>
+
+        <div class="flex flex-col h-full">
+            <h2 class="text-xl font-semibold text-center md:text-left text-purple-900 mb-3 flex-shrink-0">
+                Transcript
+            </h2>
+            <div id="transcriptOutput" class="bg-gray-50 border border-gray-300 rounded p-3 overflow-y-auto text-sm font-mono text-gray-700 space-y-2 flex-1 min-h-0">
+                <p class="text-gray-400 italic">Waiting for conversation...</p>
+            </div>
+        </div>
+
+    </div>
+    <script src="{{ url_for('static', filename='print_transcript.js') }}"></script>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
+{% endblock %}

@@ -1,0 +1,47 @@
+{% extends "header.html" %}
+{% block content %}
+<body class="bg-gray-50 min-h-screen">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        <h1 class="text-3xl font-bold text-purple-900 text-center mb-8">
+            EmblemHealth Plans Database
+        </h1>
+
+        <div class="mt-8 flex flex-col">
+            <div class="-my-2 -mx-4 overflow-x-auto sm:-mx-6 lg:-mx-8">
+                <div class="inline-block min-w-full py-2 align-middle md:px-6 lg:px-8">
+                    <div class="overflow-hidden shadow ring-1 ring-black ring-opacity-5 md:rounded-lg">
+                        <table class="min-w-full divide-y divide-gray-300">
+                            <thead class="bg-gray-50">
+                                <tr>
+                                    <th scope="col" class="py-3.5 pl-4 pr-3 text-left text-sm font-semibold text-gray-900">Plan ID</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-sm font-semibold text-gray-900">Short Name</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-sm font-semibold text-gray-900">Full Name</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-sm font-semibold text-gray-900">Benefits URL</th>
+                                </tr>
+                            </thead>
+                            <tbody class="divide-y divide-gray-200 bg-white">
+                                {% for plan in plans %}
+                                <tr>
+                                    <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-900">
+                                        <a href="{{ url_for('plans.view_plan', plan_id=plan.id) }}" class="text-purple-900 hover:text-purple-800">
+                                            {{ plan.id }}
+                                        </a>
+                                    </td>
+                                    <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-900">{{ plan.short_name }}</td>
+                                    <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-900">{{ plan.full_name }}</td>
+                                    <td class="whitespace-nowrap px-3 py-4 text-sm text-blue-600 hover:text-blue-800">
+                                        {% if plan.summary_of_benefits_url %}
+                                        <a href="{{ plan.summary_of_benefits_url }}" target="_blank" class="underline">View Benefits</a>
+                                        {% endif %}
+                                    </td>
+                                </tr>
+                                {% endfor %}
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+{% endblock %}
