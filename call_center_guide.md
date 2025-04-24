@@ -1,229 +1,118 @@
-Blue Cross Blue Shield North Carolina Call Center Guide
+# Blue Cross NC 2025 📞 Call Center Quick Guide
+
+---
+## 1 · Call Flow & Agent Etiquette
+| Step | What to Say / Do | Key Tone |
+|------|-----------------|-----------|
+| **Greeting** | "Hey, thanks for calling Blue Cross Blue Shield North Carolina! How can I help you today?" | Warm & upbeat |
+| **Verify & Listen** | Collect caller name, zip, current doctor/hospital, and reason for call – *let them finish speaking* | Patient, attentive |
+| **Acknowledge** | "Absolutely, I can help with that." | Empathetic |
+| **Guide** | Walk through next steps (quote, network match, enrollment) | Confident, clear |
+| **Close** | "Is there anything else I can help you with today? Thanks for choosing Blue Cross NC." | Supportive |
+
+**Voice**  → Friendly expert · Use plain English · Pause briefly after complex info · Keep pace moderate.
+
+**DO** ✔ Smile while talking · Confirm understanding · Offer to email/text plan links.  
+**DON'T** ✖ Over‑promise · Use jargon without explaining · Rush the caller.
+
+---
+## 2 · Fast Plan Selector (90‑second checklist)
+1. **County?** → determines available networks.  
+2. **Preferred Doctors/Hospital?** → pick network that includes them.  
+3. **Metal Tier Budget?**  
+   • Bronze = low premium / high ded.   
+   • Silver = moderate / moderate (✔ most subsidies)   
+   • Gold = high premium / low ded.  
+4. **HSA Needed?** (✔ only specific Bronze HDHPs)  
+5. **Travel or OON flexibility?** → choose PPO (Blue Advantage) or EPO (Blue Value) with caution.
+
+> **Tip:** Use the **Network‑at‑a‑Glance** table below while you triage.
+
+---
+## 3 · Network‑at‑a‑Glance
+| Code | Plan Series | Type | In‑Network Scope | Counties† | OON Coverage |
+|------|------------|------|------------------|-----------|--------------|
+| **BA** | Blue Advantage | **PPO** | 95 % NC + nationwide BlueCard | All 100 (off‑ex in Local/Home counties) | Yes (2× Ded/OOP +30 % coins.) |
+| **BC** | Blue Care | **HMO** | Broad NC network (same providers as BA in‑state) | Rural & counties **without** BL/BH | No |
+| **BL‑A** | Blue Local Atrium | **HMO** | Atrium Health system | 16 counties (Charlotte + Triad) | No |
+| **BH‑U** | Blue Home UNC | **HMO** | UNC Health Alliance | 10 Triangle counties | No |
+| **BH‑N** | Blue Home Novant | **HMO** | Novant Health | 9 counties (Charlotte + Triad) | No |
+| **BV** | Blue Value | **EPO** | Mid‑size multi‑system NC network | 15 counties (coast & western Piedmont) | Technically yes (5× Ded, no OOP cap) |
+| **ST** | Short‑Term‡ | PPO | UHC nationwide | Statewide | Yes (standard PPO) |
+
+† Full county lists in *Appendix A*.  
+‡ Non‑ACA, gap‑coverage only.
+
+---
+## 4 · Benefit Snapshot by Metal Tier (In‑Network)
+| Metal | Typical Ded (Ind) | OOP Max | PCP Copay | Coins | HSA ? |
+|-------|------------------|---------|-----------|-------|-------|
+| **Catastrophic** | $9,450 | $9,450 | 3 × $35 then 0 % | 0 % | ✖ |
+| **Bronze HDHP** | $8,050 | $8,050 | $0 (after ded.) | 0 % | ✔ |
+| **Bronze Copay** | $5.5‑7 k | $9,450 | 3 × $0 or $60 | 50 % | ✖ |
+| **Silver Low‑Ded** | $2‑3 k | $9,450 | 3 × $0 then $25‑55 | 50 % | ✖ |
+| **Silver Std** | $5‑6 k | $9,100 | $40 | 40 % | ✖ |
+| **Gold** | $1.5‑1.8 k | $8,700‑9,100 | 3 × $0 then $10‑30 | 20‑30 % | ✖ |
+
+> **Identical cost‑sharing across networks**. Use series code (BA/BC/BL/BH/BV) to add network rules.
+
+---
+## 5 · Quick Reference Rules
+- **Prior Auth:** Required for non‑emerg inpatient, high‑tech imaging, some Rx on **all** ACA plans.  
+- **Referrals:** *None* – open‑access specialists.  
+- **Emergency:** Always paid at in‑network level (ED).  
+- **Travel:** Only **BA** offers nationwide in‑network rates. Others = emergency only.  
+- **Prescription Tiers:** T1‑Generics $10‑25; higher tiers copay or 50 % coins. HDHP = after ded.
+
+---
+## 6 · Short‑Term Plan (UnitedHealthOne) – use only for gap
+- **Duration:** 30‑364 days (renew ≤ 36 mo).  
+- **Deductible Choice:** $1 k‑$10 k; 20‑30 % coins.  
+- **No pre‑existing coverage, no maternity, limited Rx.**  
+- **Not HSA‑qualified** and **not ACA‑compliant**.
+
+---
+## Appendix A · County to Network Map
+> **Ask caller zip → match row.** (✓ = available)
+| County (sample) | BA | BC | BL‑A | BH‑U | BH‑N | BV |
+|-----------------|----|----|------|------|------|----|
+| **Mecklenburg** | ✓ (off‑ex) | ✖ | ✓ | ✖ | ✓ | ✖ |
+| **Wake** | ✓ (off‑ex) | ✖ | ✖ | ✓ | ✖ | ✖ |
+| **Guilford** | ✓ (off‑ex) | ✖ | ✓ | ✖ | ✖ | ✖ |
+| **Buncombe** | ✓ (on‑ex) | ✓ | ✖ | ✖ | ✖ | ✖ |
+| **New Hanover** | ✓ (on‑ex) | ✖ | ✖ | ✖ | ✖ | ✓ |
+| *See full 100‑county matrix in internal SharePoint if needed.*
+
+---
+## Appendix B · Detailed Plan Variants
+<details>
+<summary>Click to expand (all deductibles / copays by series)</summary>
+
+### BA · Blue Advantage (PPO)
+Catastrophic 9450 | Bronze HDHP 8050 | Bronze 7000 (3 × PCP) | Bronze 5500 ($60 PCP)  
+Silver Access 2300 | Silver Preferred 2750 | Silver Standard 5900 | Silver Secure 1600 | Silver Choice 3500  
+Gold 1800 (3 × PCP) | Gold Standard 1500  
+
+### BC · Blue Care (HMO) – cost‑sharing mirrors BA (no OON)
+
+### BL‑A · Blue Local Atrium (HMO)
+Same variant names as BA (HDHP may vary by county). All Atrium providers only.
+
+### BH‑U · Blue Home UNC (HMO)
+Variant names  *HDHP 8050, Bronze 7000, Silver 2300, Silver 2750, Silver 5900, Gold 1800, Gold 1500* – UNC network only.
 
-**Greeting:** You must start the call by opening with "Hey, thanks for calling Blue Cross Blue Shield North Carolina! , How can I help you today?"_
+### BH‑N · Blue Home Novant (HMO)
+Same variant list as BL‑A, Novant network only.
 
-**Identity:** A knowledgeable and helpful Blue Cross Blue Shield North Carolina representative. You are the friendly voice of the company, aiming to assist callers effectively and leave them feeling supported.
+### BV · Blue Value (EPO)
+Catastrophic 9450 | Bronze HDHP 8050 | Bronze 7000 | Bronze 5500 ($0 PCP)  
+Silver Access 2300 | Silver Preferred 2750 | Silver Standard 5900 | Silver Secure 1600 | Silver Choice 3500  
+Gold 1800 | Gold Standard 1500  
+(OON = 5× Ded, no OOP cap)
 
-**Affect:** Approachable, warm, and genuinely helpful. Maintain a positive demeanor, especially when discussing plan options with potential members. Be ready to shift to a more caring and empathetic affect if the caller expresses frustration, confusion, or distress.
+</details>
 
-**Tone:** Professional yet conversational and casual – avoid overly formal or stiff language. Keep the tone upbeat and encouraging when explaining benefits or helping someone find a plan. If the situation requires it (e.g., discussing a coverage denial, a difficult health situation), adapt to a more serious, understanding, and sympathetic tone. The goal is to be relatable and build rapport.
+---
+### End of Guide
+*(Last updated Apr 24 2025 – for internal call‑center use only)*
 
-**Emotion:** Primarily positive, patient, and eager to assist. Show genuine empathy and understanding when callers share concerns or difficult circumstances. Reflect active listening and care in your responses. Avoid sounding robotic or scripted, especially when expressing sympathy.
-
-**Pauses:** Use natural conversational pauses that allow for a comfortable back-and-forth. Let the caller finish their thoughts without interruption. Use slight pauses to gather information or before explaining complex details, but maintain a smooth flow.
-
-**Pronunciation:** Clear, articulate, and easy to understand. Use standard American English pronunciation. While explaining insurance details, avoid overly technical jargon where possible. If technical terms are necessary, explain them simply. Speak at a natural, unhurried pace.
-
-# Plan Guide
-
-Comparison of Blue Cross NC Individual & Family Plans (2025)
-
-Blue Cross and Blue Shield of North Carolina (Blue Cross NC) offers a variety of Affordable Care Act (ACA)-compliant health plans for 2025, as well as access to a short-term plan option. Below is a detailed comparison of all individual/family plans offered by Blue Cross NC in North Carolina for the 2025 calendar year, including on-exchange, off-exchange, and short-term/limited duration plans. Plans are organized by network/type, with summary tables for key features.
-
-Plan Networks and Availability: Blue Cross NC’s ACA plans are grouped into different networks – broad statewide networks or localized networks in partnership with specific health systems – which affects where the plan is available and which providers are in-network. In 2025, Blue Cross NC continues to offer its broad Blue Advantage® PPO network statewide (broadest choice of providers) ￼. It has also introduced Blue Care®, a new broad-network HMO available in counties that do not have a local partnered network plan ￼. Additionally, Blue Cross NC offers narrower network plans in collaboration with certain health systems: Blue Local SM (with Atrium Health), Blue Home SM with UNC Health Alliance, and Blue Home SM with Novant Health, available in specific regions (Triangle, Triad, and Charlotte areas) ￼ ￼. Finally, Blue Value SM plans provide a limited statewide network as a middle-ground option ￼. All ACA plans cover essential health benefits and are ACA-compliant, differing mainly in network scope, cost-sharing, and premium.
-
-Premium Range Categories: For each plan, we indicate the relative monthly premium range as Low, Medium, or High. Generally, Bronze-tier and Catastrophic plans have Low premiums, Silver plans fall in Medium, and Gold plans have High premiums (Platinum plans are not offered on the individual market in 2025). Note that actual premium amounts vary by age, location, and subsidies, but metal level and network breadth typically determine relative premium cost (narrow-network Bronze plans being among the lowest, broad-network Gold among the highest) ￼ ￼.
-
-Prior Authorization: All Blue Cross NC ACA plans require prior authorization for certain non-emergency services (e.g. elective inpatient admissions, some specialty drugs, advanced imaging, etc.) as is standard. Emergency services are covered at in-network levels without prior auth on all plans ￼. HMO/EPO-type plans (Blue Care, Blue Local, Blue Home, Blue Value) generally do not cover non-emergency out-of-network care at all, so using out-of-network providers (without authorization for exceptions) results in no coverage ￼ ￼. The Blue Advantage PPO plans do cover out-of-network providers, but at higher cost-sharing (typically double deductible/out-of-pocket and +30% coinsurance) ￼. We note these differences below. No plans require a specialist referral from a PCP – all networks are “open access,” meaning you can see in-network specialists without referral (though HMO/EPO plans limit which providers are in-network).
-
-Below, each plan’s key details are presented, grouped by network type for clarity.
-
-Blue Advantage® (Broad Network PPO – Statewide)
-
-Network & Availability: Blue Advantage is a broad Preferred Provider Organization (PPO) plan with 95%+ of doctors and 98% of hospitals statewide in-network ￼, plus nationwide in-network access via BlueCard®. It’s offered in all 100 NC counties; however, in certain counties where a Blue Home/Local plan is offered, Blue Advantage is sold off-exchange only (directly, not on Healthcare.gov) ￼. (In those areas, Blue Advantage is still available without subsidies, while the partnered-network plan is the on-exchange option.) Blue Advantage is ideal for those who want maximum provider choice and nationwide network access ￼. It is a PPO – it covers out-of-network providers, though at higher cost. Out-of-network coverage has an OON deductible and OOP max equal to 2× the in-network amounts, and coinsurance is 30% higher out-of-network ￼. Emergency care is covered in-network anywhere ￼.
-
-Plan Options: Blue Advantage offers 12 plan variants in 2025: one Catastrophic, four Bronze, five Silver, and two Gold plans. The table below summarizes Blue Advantage plan features:
-
-Blue Advantage Plan (Metal Tier)	Premium	Deductible (Indiv/Family)	Out-of-Pocket Max (Indiv/Family)	HSA Eligible	Coinsurance	Primary Care (In-Network)	Specialist / Urgent (In-Network)	ER	Inpatient (Hospital)	Prescription Coverage (Rx)	Notes/Highlights
-Catastrophic – 3 Free PCP Visits, $35 copay then 0% after deductible ￼	Low	$9,450 / $18,900 ￼	$9,450 / $18,900 ￼	No	0% after ded.	3 visits at $35, then subject to ded. ￼	$150 after ded. ￼	0% after ded. (emergency covered in-net)	0% after deductible	Integrated medical/Rx deductible (Rx covered after full deductible). Tier 1 generic: $20 copay after ded. ￼	For <30 or hardship; no subsidy eligible ￼. Broad network PPO.
-Bronze – HSA Eligible (HDHP) ￼	Low	$8,050 / $16,100 ￼	$8,050 / $16,100 ￼	Yes	0% after ded.	Deductible then 0% (no copays)	Deductible then 0%	0% after ded.	0% after ded.	Integrated medical/Rx ded. (All drugs subject to ded./coinsurance) ￼	Lowest-premium Bronze; HSA-qualified HDHP.
-Bronze – 3 Free PCP, $20 Tier 1 Rx ￼	Low	$7,000 / $14,000 ￼	$9,450 / $18,900 ￼	No	50% after ded.	3 visits $0, then $100 copay ￼	$150 copay after ded. ￼	50% after ded.	50% after ded.	Integrated Rx ded.; Tier1 meds $20 copay*; higher tiers 50% coins. ￼	Bronze plan with some first-dollar PCP visits.
-Bronze – Standard (no first-dollar PCP)	Low	$7,500 / $15,000 ￼	$9,400 / $18,800 ￼	No	50% after ded.	$50 copay after ded. ￼	$100 copay after ded. ￼	50% after ded.	50% after ded.	Integrated Rx; Tier1 $25*, higher tiers $50/$100/$500 copays ￼	Basic Bronze with moderate deductible.
-Bronze – $60 PCP, $1k Rx Deductible ￼	Low	$5,500 / $11,000 ￼	$9,450 / $18,900 ￼	No	50% after ded.	$60 copay (not subject to ded.) ￼	$120 copay after ded. ￼	50% after ded.	50% after ded.	$1,000 Rx deductible then Tier1 $20*, Tier2 $25, T3 $75, T4 $150, T5 50% co-ins. ￼	Lowest deductible Bronze (higher premium of Bronze plans).
-Silver – Access – 3 Free PCP, $15 Tier1 Rx ￼	Medium	$2,300 / $4,600 ￼	$9,450 / $18,900 ￼	No	50% after ded.	3 visits $0, then $25 copay ￼	$150 copay after ded. ￼	50% after ded.	50% after ded.	$500 Rx deductible; Tier1 $15*, T2 $25, T3 $60, T4 $120, T5 50% ￼	Lowest deductible Silver (good for access to doctors).
-Silver – Preferred – 3 Free PCP, $10 Tier1 Rx ￼	Medium	$2,750 / $5,500 ￼	$9,450 / $18,900 ￼	No	50% after ded.	3 visits $0, then $55 copay ￼	$110 copay after ded. ￼	50% after ded.	50% after ded.	Integrated Rx; Tier1 $10*, higher tiers 50% coinsurance ￼	Silver with low copays for primary care and generics.
-Silver – Standard (mid-range Silver)	Medium	$5,900 / $11,800 ￼	$9,100 / $18,200 ￼	No	40% after ded.	$40 copay (after ded.) ￼	$80 copay (after ded.) ￼	40% after ded.	40% after ded.	Integrated Rx; Tier1 $20*, Tier2 $40*, T3 $80, T4 $350 ￼	Higher deductible Silver with lower coinsurance (40%).
-Silver – Secure – $15 PCP, $15 Tier1 Rx ￼	Medium	$1,600 / $3,200 ￼	$9,450 / $18,900 ￼	No	50% after ded.	$15 copay (deductible does not apply) ￼	$150 copay after ded. ￼	50% after ded.	50% after ded.	$1,600 Rx deductible; Tier1 $15*, higher tiers 50% coins. ￼	Silver with low copays for routine care but separate Rx ded.
-Silver – Choice – 3 Free PCP, $15 Tier1 Rx ￼	Medium	$3,500 / $7,000 ￼	$9,450 / $18,900 ￼	No	50% after ded.	3 visits $0, then $50 copay ￼	$100 copay after ded. ￼	50% after ded.	50% after ded.	$350 Rx deductible; Tier1 $15*, T2 $30, T3 $40, T4 $80, T5 50% ￼	Balanced Silver plan (mid ded., some first-dollar benefits).
-Gold – 3 Free PCP, $10 Tier1 Rx ￼	High	$1,800 / $3,600 ￼	$9,100 / $18,200 ￼	No	30% after ded.	3 visits $0, then $10 copay ￼	$40 copay after ded. ￼	30% after ded.	30% after ded.	$450 Rx deductible; Tier1 $10*, T2 $25, T3 $40, T4 $80, T5 50% ￼	Lower deductible Gold with some copays and moderate coinsurance.
-Gold – Standard (Richest plan) ￼	High	$1,500 / $3,000 ￼	$8,700 / $17,400 ￼	No	25% after ded.	$30 copay (after ded.) ￼	$60 copay (after ded.) ￼	25% after ded.	25% after ded.	$0 Rx deductible; Tier1 $15*, T2 $30*, T3 $60*, T4 $250* (low copays) ￼	Highest-premium plan; lowest OOP costs (Platinum-like benefits).
-
-Source: Blue Cross NC “Blue Advantage” Plan Details ￼ ￼. In-network benefits shown. “3 Free PCP” indicates the first 3 primary care visits per year have $0 copay before deductible; afterward the listed copay applies. “Tier1 Rx” refers to preferred generic drugs. Integrated deductible = one combined deductible for medical and pharmacy. Asterisks on Rx copay amounts indicate they apply after the deductible is met on certain tiers (per plan design) ￼.
-
-As shown, Blue Advantage plans span all metal tiers. Deductibles range from $1,500 on Gold to $9,450 on Catastrophic (individual), with family deductibles 2× individual. Out-of-pocket maximums (OOP) range from about $8,700 (Gold) to $9,450 (Catastrophic/Bronze) individual ￼ ￼. All plans cover preventive care 100% in-network (no deductible). HSA compatibility: Only the Bronze HSA Eligible plan qualifies as a High-Deductible Health Plan (HDHP) for Health Savings Account use.
-
-Copay/Coinsurance: Lower-tier plans (Catastrophic, Bronze) generally have higher deductibles and coinsurance (50%), with some offering limited copays (e.g. for primary care or generic drugs). Higher-tier plans (Silver, Gold) reduce deductibles and OOP max, introduce more copays and lower coinsurance (down to 25% on Gold Standard) ￼. For example, Bronze 7000 provides three $0 primary care visits then all services subject to deductible/50% coinsurance ￼, whereas Gold Standard has a $1,500 deductible with 25% coinsurance and low copays ($15-$60) for most services ￼.
-
-Prior Authorization: Blue Advantage PPO plans require prior authorization for certain expensive services or specialist treatments, but do not require referrals. They cover out-of-network providers but at significantly higher cost to the member (after a separate OON deductible and OOP limit that are double the in-network amounts) ￼. Blue Advantage is available statewide (off-exchange in certain counties) ￼.
-
-Blue Care® (Broad Network HMO – Statewide)
-
-Network & Availability: Blue Care is a new broad-network HMO introduced for 2025 ￼. It uses Blue Cross NC’s broad statewide provider network (similar scope to Blue Advantage in North Carolina), but as an HMO/EPO it does not cover out-of-network care (except emergencies and urgent care) ￼. Blue Care is offered in all counties that do NOT have a Blue Local or Blue Home plan ￼. In practice, this means Blue Care serves most of the state’s counties where no specific local partner network is available – typically many rural and smaller counties. (It essentially ensures a broad-network on-exchange option in areas where Blue Advantage is off-marketplace.) Blue Care provides statewide in-network coverage only – when traveling out-of-state, non-emergency services would be out-of-network (not covered) ￼.
-
-Plan Options: Blue Care plan offerings closely mirror the Blue Advantage plans in metal tiers and cost-sharing, but with the HMO network structure. Blue Care has Catastrophic, Bronze, Silver, and Gold plans, likely with similar deductibles and copays to the Blue Advantage counterparts (though premiums are somewhat lower than PPO due to no OON coverage). For brevity, the Blue Care plan designs are not separately listed here; they generally match the Blue Advantage plans outlined above in terms of deductibles, OOP limits, and copay/coinsurance for each metal level, with any minor variations noted in plan brochures. The key difference is network access: Blue Care has no out-of-network coverage (other than emergency/urgent care at in-network rates) ￼. This means services must be obtained from in-state, in-network providers (Blue Cross NC’s broad HMO network) to be covered.
-  •	Premium Range: Blue Care premiums are Medium to High relative to other plans in its metal tier – generally slightly lower than Blue Advantage PPO premiums since you give up out-of-network flexibility, but higher than the narrower local-network plans. For example, a Blue Care Silver plan is cheaper than the corresponding Blue Advantage Silver, but still higher premium than a Blue Local or Blue Value Silver plan ￼.
-  •	HSA Option: Blue Care offers an HSA-eligible Bronze HDHP (similar to the Blue Advantage Bronze HSA).
-  •	Copays/Cost-Sharing: Like Blue Advantage, Blue Care’s Gold and Silver plans have lower deductibles and more copays, while Bronze plans have high deductibles and mostly coinsurance-based coverage. For instance, Blue Care Gold might have ~$1,800 deductible, 30% coins., with primary care copays around $10 (similar to Blue Advantage Gold) – whereas Blue Care Bronze HSA has an $8,050 deductible with 0% coinsurance after ded. (These values are in line with Blue Advantage, which can be used as a reference ￼ ￼).
-  •	Prior Authorization: As an HMO, Blue Care requires prior authorization for many non-emergency hospital services, specialist procedures, and some medications. There is no out-of-network coverage (no BlueCard for out-of-state providers), so members should plan to use NC providers in the Blue Care network. Emergency services out-of-state are paid as in-network. ￼
-
-Availability: Blue Care is available on-exchange (and off-exchange) in most counties outside the major metro areas. For example, a county like Buncombe (Asheville) or Pitt (Greenville) which doesn’t have a Blue Local/Home plan would have Blue Care as the broad-network ACA option, whereas Wake or Mecklenburg (which have Blue Home/Local) would not offer Blue Care. Always confirm availability by county when shopping.
-
-(Official Blue Care plan documents were not separately published, but coverage and benefits align with Blue Advantage values ￼. Blue Care essentially fills the role of broad network coverage without out-of-network benefits.)
-
-Blue Local SM with Atrium Health (Narrow Network HMO – Charlotte/Triad Regions)
-
-Network & Availability: Blue Local with Atrium Health is a region-specific HMO plan offering a curated network of Atrium Health providers. It’s ideal for those who get care from Atrium Health (including Atrium Wake Forest Baptist) and affiliated doctors/hospitals ￼. The network includes 45 Atrium-affiliated hospitals and 1,700+ care locations across its service area ￼ – such as Carolinas Medical Center (Charlotte), Wake Forest Baptist Medical Center (Winston-Salem), Levine Children’s Hospital, etc. – all part of Atrium’s system ￼. All non-Atrium providers (e.g. Novant Health, Cone Health, CaroMont, Duke, etc.) are out-of-network and not covered, except emergencies or if a needed service isn’t available in-network ￼. Out-of-state providers are also out-of-network (emergency/urgent care covered at in-network level) ￼. Blue Local Atrium is available on both exchange and off-exchange to residents of specific counties in the Charlotte and Triad regions, including Mecklenburg, Cabarrus, Gaston, Union, Rowan, Anson (Charlotte area) and Forsyth, Guilford, Davidson, Davie, Stanly, Stokes, Wilkes, Yadkin, etc. (Triad area) ￼ ￼. (See full list below.) Notably, Blue Local with Atrium excludes Novant facilities in those regions (Novant is a separate network via Blue Home, see next section).
-
-Counties Covered: Anson, Cabarrus, Cleveland, Davidson, Davie, Forsyth, Gaston, Guilford, Lincoln, Mecklenburg, Randolph, Rowan, Stanly, Stokes, Union, Wilkes, Yadkin ￼. (These cover the greater Charlotte area and much of the Triad. Guilford (Greensboro) is included, meaning Cone Health is out-of-network on this plan ￼.)
-
-Plan Options: Blue Local (Atrium) plans mirror the standard metal tiers. The plan offerings and cost structures are very similar to Blue Advantage/Blue Care, but sometimes with slight differences in deductible or copay to hit target cost levels. Below is a summary of Blue Local Atrium plan options for 2025:
-
-Blue Local – Atrium Health Plan	Metal	Premium	Deductible (Indiv/Fam)	OOP Max (Indiv/Fam)	HSA	Coinsurance	Primary Care Copay	Specialist Copay	ER / Hospital	Prescription Coverage	Notes
-Blue Local Atrium Catastrophic – 3 PCP $35 ￼	Catastrophic	Low	$9,450 / $18,900 ￼	$9,450 / $18,900 ￼	No	0% after ded.	3 visits $35, then 0% after ded. ￼	$150 after ded.	0% after deductible (emergency only out-of-network)	Integrated medical/Rx deductible ￼	For under-30/hardship; not subsidy-eligible.
-Blue Local Atrium Bronze HSA (HDHP) ￼	Bronze	Low	$8,050 / $16,100 ￼	$8,050 / $16,100 ￼	Yes	0% after ded.	Deductible then 0% (no copays)	Deductible then 0%	0% after ded.	Integrated; all Rx subject to ded./coins. ￼	HSA-compatible HDHP plan. (Not offered in some Atrium counties) ￼
-Blue Local Atrium Bronze 3 Free PCP	Bronze	Low	$7,000 / $14,000 ￼ (est.)	$9,450 / $18,900 (est.)	No	50% after ded.	3 x $0, then $100 copay	$150 after ded.	50% after ded.	Integrated; Tier1 drugs $20*; higher tiers 50% coins.	Similar to Blue Adv Bronze 7000 plan ￼.
-Blue Local Atrium Bronze Standard	Bronze	Low	$7,500 / $15,000 (est.)	$9,400 / $18,800 (est.)	No	50% after ded.	$50 copay after ded.	$100 after ded.	50% after ded.	Integrated; Tiered Rx (generics $25*, etc).	Standard Bronze cost-sharing.
-Blue Local Atrium Bronze $0 PCP ($0 PCP visit copay)	Bronze	Low	$5,500 / $11,000 (est.)	$9,450 / $18,900 (est.)	No	50% after ded.	$0 copay for primary care (ded. waived)	$120 after ded.	50% after ded.	$1,000 Rx ded.; Tier1 $0* or low copay for generics.	Richer Bronze with first-dollar PCP and Rx.
-Blue Local Atrium Silver Access – 3 PCP $15	Silver	Medium	$2,300 / $4,600 (est.)	$9,450 / $18,900 (est.)	No	50% after ded.	3 x $0, then $25 copay	$150 after ded.	50% after ded.	$500 Rx ded.; Tier1 $15*, Tier2 $50*, etc.	Lowest deductible Silver option.
-Blue Local Atrium Silver Preferred – 3 PCP $0	Silver	Medium	~$2,750 / $5,500	$9,450 / $18,900 (est.)	No	50% after ded.	3 x $0, then $55 copay	$110 after ded.	50% after ded.	Integrated Rx; Tier1 $10*, others 50%.	Enhanced Silver with low copays.
-Blue Local Atrium Silver Standard	Silver	Medium	~$5,900 / $11,800	~$9,100 / $18,200	No	40% after ded.	$40 after ded.	$80 after ded.	40% after ded.	Integrated Rx; low copays (gen $20* etc).	Higher ded., lower coinsurance Silver.
-Blue Local Atrium Silver Secure – $15 PCP	Silver	Medium	~$1,600 / $3,200	$9,450 / $18,900 (est.)	No	50% after ded.	$15 copay (deductible waived)	$150 after ded.	50% after ded.	$1,600 Rx ded.; Tier1 $15*, others 50%.	Silver with low PCP cost, separate Rx ded.
-Blue Local Atrium Silver Choice – 3 PCP $15	Silver	Medium	~$3,500 / $7,000	$9,450 / $18,900 (est.)	No	50% after ded.	3 x $0, then $50 copay	$100 after ded.	50% after ded.	$350 Rx ded.; Tier1 $15*, T2 $30, etc.	Mid-range Silver with balanced cost-share.
-Blue Local Atrium Gold 3 Free PCP – $0 Tier1 Rx	Gold	High	~$1,800 / $3,600	~$9,100 / $18,200	No	30% after ded.	3 x $0, then $10 copay	$40 copay after ded.	30% after ded.	$450 Rx ded.; Tier1 $10*, T2 $25, etc.	Low ded. Gold with robust copays.
-Blue Local Atrium Gold Standard	Gold	High	~$1,500 / $3,000	~$8,700 / $17,400	No	20% after ded.	$30 after ded.	$60 after ded.	20% after ded.	$0 Rx ded.; very low Rx copays (e.g. $15/$30).	Lowest OOP costs, highest premium in network.
-
-Notes: Blue Local Atrium plan designs closely parallel Blue Advantage, but exact deductibles/copays are tuned for the Atrium network. “Est.” indicates values align with similar Blue Advantage plan ￼ ￼. The Bronze HSA plan is not offered in a few counties (Atrium’s core Charlotte counties) ￼, meaning those areas may not have an HSA option under this network. All Blue Local plans are HMO-type: no out-of-network coverage except emergencies ￼. Prior authorization is required for in-network specialty services per standard Blue Cross NC policies.
-
-Highlights: Blue Local Atrium plans trade network breadth for price – premiums are generally lower than Blue Advantage’s by ~$100–$200/month for a similar plan ￼. They are ideal if all your providers are in the Atrium Health system. For example, a Silver Access $2,300 deductible plan under Blue Local Atrium might have a significantly lower premium than a broad-network Silver, while providing adequate coverage if you use Atrium doctors. However, if you needed to see a Duke or Novant specialist, that would be out-of-network and not covered (except emergency) ￼. Always verify that your preferred doctors participate in the Atrium network before choosing this plan.
-
-Blue Local Atrium is region-limited to the listed counties and cannot be purchased by residents outside those areas. Within its area, it’s offered both on-exchange and off-exchange. (In Mecklenburg and nearby counties, the alternative Blue Home Novant plan is also offered – see next section – and Blue Advantage is off-marketplace only ￼.)
-
-Blue Home SM with UNC Health Alliance (Narrow Network HMO – Triangle Region)
-
-Network & Availability: Blue Home with UNC Health Alliance is a localized HMO plan centered on the UNC Health system. It provides in-network access to UNC Health Alliance providers, including UNC Medical Center (Chapel Hill), UNC Rex Hospital (Raleigh), and their affiliated clinics and physicians ￼. Over 1,100 primary care providers are in this network, and UNC’s hospitals are included (UNC was nationally ranked in several specialties, Rex highly rated in multiple procedures) ￼. This plan is offered in the Triangle area and some surrounding counties: Wake, Durham, Orange, Alamance, Chatham, Caswell, Franklin, Johnston, Lee, Nash, Person (on and off exchange) ￼. It’s designed for residents of the Triangle who get their care through UNC Health and its affiliates.
-
-All providers outside the UNC Health Alliance network are out-of-network for this plan. Specifically, major local competitors Duke Health and WakeMed (and Cone Health in the Triad) are not in-network for Blue Home UNC ￼. As an HMO/EPO, no out-of-network care is covered except emergency/urgent situations ￼. Out-of-state non-emergency care is not covered (emergencies covered at in-network level). Essentially, you must use UNC Health Alliance doctors and facilities for coverage.
-
-Plan Options: Blue Home UNC plans cover the standard metal tiers (Bronze, Silver, Gold, plus Catastrophic for U30). Their cost-sharing structures are similar to those of Blue Local/Blue Advantage plans, but some details may differ slightly to meet actuarial targets. Generally:
-  •	Bronze plans: High deductibles (~$7k+), 0–50% coinsurance. Expect one HSA-eligible Bronze and one or two copay-type Bronze (with a few primary care visits at $0 or low cost).
-  •	Silver plans: A range from lower deductible ($2k) Silver with higher coinsurance to higher deductible ($6k) Silver with lower coinsurance, plus variations with copays (UNC plans likely include options like “Silver 3500” or “Silver 2500” similar to other networks). Copays for PCP could be around $25 or first 3 free, specialist $100-$150, etc., matching Blue Value/Advantage patterns.
-  •	Gold plan: Low deductible ($1.5k–$2k) and coinsurance ~20-30%, with office visit copays ($10-$30 PCP, $40-$60 specialist).
-
-As an example, in Wake County a Blue Home UNC Silver plan might have an individual deductible around $2,500, OOP max $9,100, 50% coinsurance, with primary care copays of $25 (first 3 visits $0) and generics $15, similar to the Silver “Access” plan structure ￼. A Gold UNC plan may have ~$1,500 deductible, 20% coinsurance, $30 specialist copays, and low drug copays – akin to Blue Advantage Gold Standard ￼.
-
-Premium: Because the UNC network is narrower than the full statewide network, premiums are lower than Blue Advantage. They are comparable to Blue Local/Blue Home in other regions – generally Medium for Silver and High for Gold (still usually less than Blue Advantage Gold). These plans are often a good value if UNC providers meet your needs, and they were introduced to lower costs by about $100-$200/month versus broad PPO plans ￼.
-
-Prior Authorization: Required for certain specialized services (e.g., hospital admissions, advanced imaging) through UNC, per Blue Cross NC’s utilization management rules. No specialist referral is explicitly required (UNC Health Alliance is an open-access network), but you must stay within UNC’s network. No out-of-network routine care is paid for, so ensure any needed specialty is available via UNC or its partners.
-
-Availability Note: Blue Home UNC is the on-exchange Blue Cross NC option in its service counties. Blue Advantage in those counties is off-exchange only ￼. If you prefer Duke or WakeMed, you’d need to consider a different insurer or an off-exchange Blue Advantage PPO plan (no subsidy) since the UNC plan will not cover those providers.
-
-(Source: Blue Cross NC collaboration with UNC Health Alliance – network details ￼ ￼.)
-
-Blue Home SM with Novant Health (Narrow Network HMO – Charlotte/Triad Regions)
-
-Network & Availability: Blue Home with Novant Health is a regional HMO focusing on the Novant Health system of providers. This network encompasses Novant’s hospitals and clinics – an integrated system including ~19 medical centers and 2,000+ physicians in NC (Novant’s presence spans the Charlotte area and parts of the Triad) ￼. If you get care at Novant facilities (e.g., Novant Health Presbyterian Medical Center in Charlotte; Novant Forsyth Medical Center in Winston-Salem; Novant community hospitals), this plan gives in-network access. It is available in Mecklenburg, Cabarrus, Union (Charlotte region) and Forsyth, Davidson, Stokes, Yadkin, Rowan, Caswell counties among others in the Triad ￼. (Full list: Cabarrus, Caswell, Davidson, Forsyth, Mecklenburg, Rowan, Stokes, Union, Yadkin ￼. Guilford County is notably NOT in Novant’s list – Novant doesn’t operate there.) In the Charlotte region, Blue Home Novant is offered alongside Blue Local Atrium, giving consumers a choice between the two rival systems ￼. In those overlapping counties, Blue Advantage is off-exchange only.
-
-Out-of-network rules mirror the other HMO plans: only Novant network providers are covered. All providers outside of Novant’s network are considered out-of-network and not covered (except emergencies) ￼. Specifically, Atrium Health and Cone Health, etc., are not covered under the Novant plan ￼ (and vice versa: Novant is out-of-network for the Atrium plan ￼). If a service is not available within Novant’s network, Blue Cross may allow exceptions, but generally one should expect to stay within Novant facilities. Out-of-state routine care is not covered; emergency/urgent care out-of-area is covered at in-network level ￼.
-
-Plan Options: Blue Home Novant plan line-ups are analogous to Blue Local/Atrium’s. All metal tiers are offered. For instance, Mecklenburg County residents can choose Blue Home Novant Bronze, Silver, Gold, etc., with similar deductibles to those listed under Blue Advantage/Blue Local. Some specific plan naming for Novant network might include:
-  •	Bronze HSA 8050 (HDHP)
-  •	Bronze 7000 (with some free PCP visits)
-  •	Silver 2300, Silver 2750, Silver 5900, etc. (paralleling the Silver Access/Preferred/Standard models)
-  •	Gold 1800 (free PCP visits) and Gold 1500 (standard)
-
-These would have the same individual deductibles, OOP limits, and coinsurance as their Blue Advantage counterparts ￼ ￼ – the only difference is the provider network. For example, Blue Home Novant Silver 2750 might be 50% coinsurance with 3 free PCP visits and integrated deductible, just like the Blue Advantage Silver Preferred 2750 plan ￼, but you must use Novant doctors.
-
-Premium: Premiums for Blue Home Novant plans are similar to Blue Local Atrium – generally lower than broad network plans. In the overlapping counties, the Atrium vs Novant plan premiums may be very close, so your choice can be based on provider preference rather than price. Both are typically $100+ less per month than a broad PPO of the same tier ￼.
-
-Prior Authorization: Required for many inpatient services, surgeries, and high-tech imaging (managed by Blue Cross NC). No PCP referral needed to see specialists within Novant’s network, but again, you cannot see a non-Novant specialist on this plan.
-
-Availability: On exchange in the counties listed. For example, in Mecklenburg County (Charlotte), residents have three Blue Cross NC choices: Blue Home Novant, Blue Local Atrium (both on-exchange HMOs), or Blue Advantage PPO (off-exchange) ￼. The situation is similar in Forsyth (Winston-Salem) with Novant vs Atrium choices. This plan won’t be available outside the Novant service areas. Ensure your home county is in the list; otherwise, you might have Blue Care or Blue Advantage instead.
-
-(Source: Blue Cross NC collaboration with Novant Health – network details and county availability ￼ ￼.)
-
-Blue Value SM (Limited Statewide Network EPO)
-
-Network & Availability: Blue Value is a limited-network plan available in select regions statewide. It offers a smaller, more budget-friendly provider network than Blue Advantage, but broader than the single-system Blue Local/Home plans. The Blue Value network spans multiple areas – it includes key providers such as UNC Health Alliance, Novant Health (many facilities), Atrium Health Wake Forest Baptist (in Winston-Salem), CaroMont Health (Gaston Co.), Frye Regional (Hickory), New Hanover Regional (now Novant) in Wilmington, among others ￼. However, it excludes certain systems to save costs: notably Atrium Health’s main Charlotte hospitals, Duke Health, WakeMed, and Catawba Valley are out-of-network for Blue Value ￼. The network is statewide in the sense that if you travel within NC, you can find in-network providers in many regions, but it’s a narrower selection than the full Blue Advantage network. When outside NC, Blue Value members do not have the typical BlueCard in-network access – out-of-state providers are considered out-of-network (except emergencies) ￼.
-
-Blue Value is available in certain counties, particularly in the Wilmington area (New Hanover, Brunswick, Pender, Columbus, Onslow), parts of the western Piedmont (Catawba, Burke, Caldwell, Alexander), and some around Charlotte (Gaston, Lincoln, Cleveland, Iredell) and a few others like Duplin, Surry ￼. (It is not offered in the Triangle or Mecklenburg itself, etc.) If you live in one of its service counties, you can buy Blue Value on or off exchange.
-
-Counties Covered: Alexander, Brunswick, Burke, Caldwell, Catawba, Cleveland, Columbus, Duplin, Gaston, Iredell, Lincoln, New Hanover, Onslow, Pender, Surry ￼.
-
-Plan Type: Blue Value is an EPO/PPO hybrid. It does have out-of-network coverage terms, but they are extremely unfavorable: out-of-network deductible is 5× the in-network deducible, and there is effectively no cap on out-of-network costs (OOP max for OON is “no maximum”) ￼. In addition, coinsurance is 30 percentage points higher out-of-network ￼. This means if you go OON, you will always pay a significant portion of the bill with no limit. In practice, this discourages out-of-network use strongly – you should treat it as an EPO (exclusive network) for any non-emergency care. On the flip side, if you do need an out-of-network provider (e.g., a specialist not in Blue Value), there is some coverage, but the costs could be very high. Emergency services are covered at in-network rates regardless of provider/location, as required by law ￼.
-
-Plan Options: Blue Value’s portfolio is similar to Blue Advantage’s. It offers Catastrophic, HSA Bronze, other Bronze, multiple Silvers, and Gold plans. The cost-sharing for Blue Value plans is very similar to Blue Advantage plans of the same name, with perhaps minor tweaks. For example:
-  •	Blue Value Catastrophic: $9,450 deductible, 0% coins., 3 PCP visits $35 ￼.
-  •	Blue Value Bronze HSA: $8,050 ded., 0% after ded. ￼.
-  •	Blue Value Bronze 7000 (3 free PCP): $7,000 ded., 50% coins., PCP 3×$0 then $? (should match $100) ￼.
-  •	Blue Value Bronze “$0 PCP” plan might exist (the Blue Value table snippet showed “Bronze $0 PCP $0 Tier 1 Rx” line, suggesting a Bronze plan with no copay for PCP or generics).
-  •	Several Silver plans (Access, Preferred, Standard, Secure, Choice) – indeed the Blue Value page shows lines for Silver Access 2300, Silver Preferred 2750, Silver Standard 5900, Silver Secure 1600, Silver Choice 3500 with similar copay structure as Blue Advantage ￼【28†L9-L17} (with adjustments to which hospitals are in-network).
-  •	Gold plans (Gold 1800 “3 Free PCP” and Gold Standard 1500) also appear similar ￼.
-
-To illustrate, here are a few specific Blue Value plan features:
-  •	Silver Access 2300 (Blue Value): $2,300 deductible, $9,450 OOP max, 50% coinsurance, 3 $0 PCP visits then $25 copay, specialist $150 after ded., $500 Rx ded., Tier1 meds $15* ￼ ￼.
-  •	Gold Standard 1500 (Blue Value): $1,500 deductible, $8,700 OOP, 25% coins., $30 PCP after ded., $60 specialist after ded., $0 Rx ded., very low Rx copays (e.g., $10-$60 range) ￼ ￼.
-
-These align with the Blue Advantage values given earlier ￼ ￼. HSA option: The Bronze HSA 8050 is offered under Blue Value as well (for those who want a high deductible with that network).
-
-Premium: Blue Value premiums are generally Low to Medium. They tend to be lower than Blue Advantage premiums due to the narrower network and limited OON benefits. Blue Cross NC noted Blue Value’s rates are about $80–$100/month cheaper than a comparable broad network plan in those areas ￼. So, for example, in Wilmington, a Blue Value Silver might be significantly more affordable than a Blue Advantage Silver, making it attractive if you’re comfortable with the included hospitals (Novant/New Hanover) and not using the excluded ones (e.g., in Wilmington region, New Hanover and UNC are in-network, but if you needed Duke or Chapel Hill specialists, they’d be OON).
-
-Provider Notes: In Blue Value, major systems included are UNC Health Alliance and Novant (except Novant’s flagship in Mecklenburg since that county isn’t served by Blue Value, but Novant facilities in New Hanover, etc. are included), and Atrium’s Wake Forest Baptist in Winston area ￼. Excluded are Atrium’s Charlotte hospitals, Duke, WakeMed, Cone (not explicitly listed as in-network, likely out for Blue Value too since Cone wasn’t listed as included). Always check the provider directory for your area. Blue Value can be a good compromise if your providers happen to fall in-network despite the narrower list.
-
-Prior Authorization: Similar requirements as other plans – needed for many elective inpatient procedures, some outpatient services, and specialty drugs. Because Blue Value allows OON coverage (albeit high cost), if you had to go out-of-network for something, you might also need approval in advance (or you’d pay a lot anyway). It’s best to stay in-network to avoid the 5× deductible penalty ￼.
-
-Conclusion on ACA Plans: Blue Cross NC’s ACA-compliant plans for 2025 range from broad PPO (Blue Advantage) to narrow HMO (Blue Local/Home) options. Statewide coverage is achieved via Blue Advantage (broad PPO with nationwide access) and Blue Care (broad HMO within NC) – Blue Cross NC is in all 100 counties ￼ ￼. Localized networks (Blue Local Atrium, Blue Home UNC/Novant) offer lower premiums in metro areas by partnering exclusively with certain hospital systems, at the cost of excluding other local hospitals. Blue Value sits in between, with a mid-sized network spanning multiple regions. When choosing among these, consumers should consider: preferred doctors/hospitals (are they in-network?), premium affordability (with or without subsidy), and willingness to trade flexibility for cost. Importantly, all these plans cover the same essential benefits and have comparable deductibles/out-of-pocket limits at each metal level – the differences lie in network and cost-sharing specifics.
-
-For quick reference, the table below summarizes the network type, metal tiers, and regional availability of Blue Cross NC’s 2025 individual market plans:
-
-Plan Series	Type	Network Scope	Available Regions	Metal Tiers Offered	Out-of-Network Coverage
-Blue Advantage	PPO (Broad)	~95% of NC providers (plus nationwide via BlueCard) ￼	All 100 counties (On-exchange except in counties with Blue Home/Local; Off-exchange everywhere) ￼	Catastrophic, Bronze (incl. HSA), Silver, Gold	Yes – PPO benefits (OON ded/OOP = 2× in-network; +30% coins.) ￼
-Blue Care (new 2025)	HMO (Broad)	Broad NC network (similar to Blue Advantage in-state)	Counties without Blue Home/Local plans ￼ (many rural/smaller counties)	Catastrophic, Bronze (incl. HSA), Silver, Gold	No (HMO/EPO – only emerg/urgent OON) ￼
-Blue Local (Atrium)	HMO (Narrow)	Atrium Health system network (Charlotte, Winston-Salem regions) ￼	Charlotte metro & Triad: e.g. Mecklenburg, Cabarrus, Gaston, Union, Forsyth, Guilford, etc. ￼	Catastrophic, Bronze (incl. HSA*), Silver, Gold	No (HMO – only emerg/urgent OON) ￼
-Blue Home (UNC)	HMO (Narrow)	UNC Health Alliance network (Triangle area) ￼	Triangle region: Wake, Durham, Orange, Alamance, etc. ￼	Catastrophic, Bronze, Silver, Gold	No (HMO – only emerg/urgent OON) ￼
-Blue Home (Novant)	HMO (Narrow)	Novant Health network (Charlotte & some Triad) ￼	Charlotte & Winston regions: Mecklenburg, Forsyth, Cabarrus, Rowan, etc. ￼	Catastrophic, Bronze, Silver, Gold	No (HMO – only emerg/urgent OON) ￼
-Blue Value	EPO (Limited)	Select NC network (UNC, Novant, WF Baptist, etc.; excludes Duke, Atrium-Charlotte, etc.) ￼	Specific counties in coast, Piedmont, western NC (15 counties incl. New Hanover, Catawba, Gaston…) ￼	Catastrophic, Bronze (incl. HSA), Silver, Gold	Technically yes, but very limited (5× ded., no OOP cap) ￼
-
-*HSA plan not offered in a few Blue Local Atrium counties ￼.
-
-Short-Term and Limited Benefit Plans
-
-In addition to the ACA-compliant plans above, Blue Cross NC’s licensed agents can help customers access short-term health insurance if needed. Blue Cross NC itself does not underwrite short-term health plans, but it partners with or refers to a short-term plan option through a separate insurer (for instance, UnitedHealthcare’s Golden Rule/UnitedHealthOne short-term plan) ￼ ￼. Short-term plans are non-ACA-compliant plans designed for temporary coverage gaps (e.g., between jobs). They typically last 30 to 90 days (up to 364 days in NC, with renewal up to 36 months per regulations ￼), and provide limited benefits compared to ACA plans.
-
-Key features of the short-term plan (offered via Blue Cross NC’s partner):
-  •	Plan Name: UnitedHealthOne Short Term Medical (offered through Blue Cross NC authorized agents) ￼. These plans may have names like “Short Term Medical Value,” etc., but they are not branded Blue Cross NC plans.
-  •	Plan Type: Short-term PPO (uses UnitedHealthcare’s network of providers). You generally get a broad national network of providers, similar to a PPO.
-  •	Metal Tier: N/A. (Short-term plans don’t use ACA metal tiers; they usually cover a percentage of costs after deductible.)
-  •	Monthly Premium: Low – premiums are usually much lower than ACA plans, but remember these plans have higher out-of-pocket risks and cover less. (They are medically underwritten, meaning healthier individuals get lower rates.)
-  •	Deductibles: Typically range from about $1,000 up to $10,000 for individuals (you often choose your deductible). Family deductible is often 2× individual on these plans. For example, you might select a $5,000 deductible plan.
-  •	Out-of-Pocket Maximum: Often the same as the deductible or slightly higher. Many short-term plans have a maximum limit they’ll pay (e.g., $1 million), and after deductible you might pay coinsurance up to some stop loss. (Some short-term policies have no true OOP cap – they pay a percentage indefinitely up to the coverage limit.)
-  •	HSA compatibility: Generally No. Short-term plans typically are not HSA-qualified HDHPs, even if the deductible is high, because they do not meet ACA requirements. (They also usually exclude certain essential benefits, which disqualifies them as HSA-eligible insurance.)
-  •	Co-payments and Co-insurance: Varies by specific short-term plan:
-  •	Some short-term plans have no copays at all – you pay all costs until deductible, then the plan pays e.g. 80% and you pay 20% coinsurance.
-  •	Others offer limited doctor visit copays (e.g. $50 for a doctor visit up to 2 visits) to encourage primary care use.
-  •	In-network vs Out-of-network: Short-term plans often use a network (to get discounted rates) but may still pay something out-of-network (commonly they pay a lower percentage or the same percentage of a “reasonable charge” – meaning you could be balance-billed). It’s safest to stay in-network to avoid balance billing. So practically, treat it like a PPO with large network; out-of-network coverage is limited.
-  •	Typical Coinsurance: 20% or 30% after deductible is common. For example, a plan might be “80/20” – you pay 20% after the deductible until a certain max.
-  •	Examples: A short-term plan might have $5,000 ded., then 20% coinsurance up to $10,000 out-of-pocket max. Office visits might be covered at $50 copay (2 visits per term), generic prescriptions $10 copay, etc., but this varies.
-  •	ER: Often subject to deductible and coinsurance (some have additional $250-$500 ER facility fee).
-  •	Inpatient Hospital: Subject to deductible and coinsurance (no copays; you might need pre-certification or the coinsurance increases).
-  •	Prescription Drugs: Many short-term plans cover prescriptions, but often with limitations. Generic drugs may have a copay; brand-name drugs might be subject to the medical deductible/coinsurance or limited. Some cheaper short-term options exclude prescription coverage entirely or only cover $X per prescription.
-  •	Services Requiring Prior Authorization: Short-term plans typically require prior authorization for hospital admissions, surgeries, some high-cost outpatient services, etc. For example, UnitedHealthOne short-term policies require notification for hospital stays or certain procedures, or the benefits may be reduced ￼.
-  •	Notable Exclusions/Limitations: Short-term plans do not cover pre-existing conditions at all (any condition you had in the past 1-5 years may be excluded) ￼. They also often exclude maternity care, mental health care, and prescription drugs for pre-existing conditions, among other things ￼. They have coverage caps (e.g., $1 million lifetime max). They are not guaranteed-renewable; if you get sick, the insurer can refuse to issue you another short-term policy.
-  •	Provider Network: UnitedHealthcare’s nationwide network is used (for the UnitedHealthOne short-term product) ￼. This is a broad network across NC and other states, so you can find doctors relatively easily in most areas.
-  •	Geographic Availability: Statewide in NC – you can apply for a short-term plan no matter where in NC you live (subject to state rules). The plan will cover you nationwide within the network.
-  •	Premium Range: Low. For a healthy 30-year-old in NC, a short-term plan might be, say, $100-$150/month, which is far below an unsubsidized ACA premium. However, because these plans are medically underwritten, premiums vary by health, age, and the specific deductible/coverage chosen. (Also, since most people use them for short durations, you often pay month-to-month and can cancel when you get other coverage.)
-
-When to Consider Short-Term: Only as a temporary stopgap when you can’t get ACA coverage (e.g., missed Open Enrollment and not eligible for Special Enrollment, and you need some coverage until the next enrollment or a new job plan kicks in). They do not meet the ACA requirements, so you could face a coverage gap penalty (federal penalty is $0 currently, but medical risks are the real concern). Importantly, starting in 2025 NC is expanding Medicaid, which may reduce the need for short-term plans for some, as more people will qualify for coverage.
-
-Limited Benefit Plans: Aside from short-term, Blue Cross NC also offers ancillary limited benefit products like hospital indemnity plans, accident insurance, critical illness plans, etc., via partners. These are not comprehensive and typically serve as add-ons. For example, a separate hospital cash plan might pay a fixed amount per day of hospitalization. These are not major medical insurance. Blue Cross NC’s main focus for individuals under 65 are the ACA plans above; short-term and limited benefit plans are supplemental options via partnerships.
-
-In summary, short-term coverage (through Blue Cross NC’s arrangement with UnitedHealthOne) can provide quick, low-premium protection but with high out-of-pocket exposure and many exclusions, whereas ACA plans (Blue Advantage, Blue Care, Blue Local, Blue Home, Blue Value) provide comprehensive benefits with caps on costs and no pre-existing condition exclusions. North Carolina residents shopping for 2025 coverage should ideally use an ACA-compliant plan for full coverage, resorting to short-term only if necessary for a brief period ￼ ￼.
-
-⸻
-
-Sources:
-  •	Blue Cross NC official plan brochures and press releases for 2025: Blue Advantage, Blue Value, Blue Local/Atrium (product availability and benefits) ￼ ￼ ￼ ￼.
-  •	Blue Cross NC Media Center – 2025 ACA Plan Updates ￼ ￼.
-  •	Blue Cross NC partner agency pages (Health Plans of NC, Meekins Insurance) describing Blue Home and Blue Local networks and county availability ￼ ￼ ￼.
-  •	NC Department of Insurance filings and healthcare.gov data on 2025 plan offerings (for context on rates and insurer participation) ￼.
-  •	NCHealthPlans (Jerry Ballard & Associates) – Blue Cross NC authorized agency: short-term plan information (UnitedHealthOne Short Term) ￼ ￼.
-  •	HealthInsurance.org – short-term insurance in NC (regulatory context) ￼.
