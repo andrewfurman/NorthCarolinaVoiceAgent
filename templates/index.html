@@ -9,12 +9,6 @@
     <script src="https://cdn.tailwindcss.com"></script>
 
     <style>
-        /* Optional: You could define the specific IBX blue here if Tailwind's default blues aren't exact */
-        /* .text-ibx-blue { color: #007AC3; } */
-        /* .bg-ibx-blue { background-color: #007AC3; } */
-        /* For this example, we'll use Tailwind's sky-600 which is a similar shade */
-
-        /* Custom scrollbar styling (optional, webkit specific) */
         #transcriptOutput::-webkit-scrollbar {
             width: 8px;
         }
@@ -29,10 +23,6 @@
         #transcriptOutput::-webkit-scrollbar-thumb:hover {
             background: #555; /* Darker thumb on hover */
         }
-
-        /* Ensure body takes full height */
-        /* html, body { height: 100%; margin: 0; padding: 0; }  Basic CSS reset if needed, but Tailwind's h-full should suffice */
-
     </style>
 </head>
 <body class="bg-white text-gray-800 h-full flex flex-col">
@@ -40,7 +30,7 @@
 <div class="bg-white rounded-lg shadow-xl p-6 md:p-8 w-full border border-gray-200 h-full flex flex-col">
 
     <div class="text-sm text-gray-600 text-center mb-4">
-        For detailed information on the Blue Cross Blue Shield NC individual and family plans available in 2025, please visit the <a href="https://www.bluecrossnc.com/plans/individuals-and-families" target="_blank" class="text-purple-900 hover:text-purple-700 underline">Blue Cross Blue Shield NC website</a>
+        For detailed information on the Blue Cross Blue Shield NC individual and family plans available in 2025, please visit the <a href="https://www.bluecrossnc.com/shop-plans/health" target="_blank" class="text-blue-900 hover:text-blue-700 underline">Blue Cross Blue Shield NC website</a>
     </div>
 
     <h1 class="text-2xl md:text-3xl font-bold text-center text-blue-900 mb-6 flex-shrink-0">
@@ -64,7 +54,7 @@
             </div>
 
             <div class="p-3 md:p-4 bg-gray-100 rounded border border-gray-300 flex-grow flex flex-col min-h-0"> <p class="text-xs md:text-sm font-mono text-gray-700 flex-shrink-0">Status:</p>
-                <div id="status" class="text-xs md:text-sm font-mono text-purple-700 break-words flex-grow min-h-0 overflow-auto">Idle</div>
+                <div id="status" class="text-xs md:text-sm font-mono text-blue-700 break-words flex-grow min-h-0 overflow-auto">Idle</div>
             </div>
 
             <audio id="remoteAudio" autoplay playsinline class="w-full hidden"></audio>
