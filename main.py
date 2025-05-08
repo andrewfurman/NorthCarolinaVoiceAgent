@@ -16,7 +16,8 @@ OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 # Use the latest recommended model or the specific one you need
 # Update model string as per OpenAI documentation or announcements
 # Check OpenAI docs for the current recommended preview model.
-OPENAI_REALTIME_MODEL = os.environ.get("OPENAI_REALTIME_MODEL", "gpt-4o-realtime-preview") # Using a reasonable default
+# OPENAI_REALTIME_MODEL = os.environ.get("OPENAI_REALTIME_MODEL", "gpt-4o-mini-realtime-preview") # Using a reasonable default gpt-4o-mini-realtime-preview
+OPENAI_REALTIME_MODEL = os.environ.get("OPENAI_REALTIME_MODEL", "gpt-4o-realtime-preview") # Using a reasonable default gpt-4o-mini-realtime-preview
 OPENAI_SESSION_URL = "https://api.openai.com/v1/realtime/sessions"
 
 # <<< START MODIFICATION: Update filename for instructions >>>
